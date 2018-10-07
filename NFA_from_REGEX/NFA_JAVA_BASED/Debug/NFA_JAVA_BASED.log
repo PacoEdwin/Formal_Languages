@@ -1,0 +1,6 @@
+﻿  NFA_HW6.cpp
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(158): warning C4715: 'build_graph': not all control paths return a value
+  NFA_JAVA_BASED.vcxproj -> c:\users\edwin\source\repos\NFA_JAVA_BASED\Debug\NFA_JAVA_BASED.exe

@@ -1,0 +1,15 @@
+﻿  NFA_HW6.cpp
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(62): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(79): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(90): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(96): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(113): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(130): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(131): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(151): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(162): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\source\repos\nfa_java_based\nfa_java_based\nfa_hw6.cpp(164): warning C4715: 'build_graph': not all control paths return a value
+  NFA_JAVA_BASED.vcxproj -> C:\Users\Edwin\source\repos\NFA_JAVA_BASED\x64\Debug\NFA_JAVA_BASED.exe
+  NFA_JAVA_BASED.vcxproj -> C:\Users\Edwin\source\repos\NFA_JAVA_BASED\x64\Debug\NFA_JAVA_BASED.pdb (Partial PDB)
