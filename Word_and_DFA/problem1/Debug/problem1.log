@@ -1,0 +1,7 @@
+﻿  problem1.cpp
+d:\projects\problem1\problem1\problem1.cpp(22): warning C4018: '<': signed/unsigned mismatch
+d:\projects\problem1\problem1\problem1.cpp(24): warning C4018: '<': signed/unsigned mismatch
+d:\projects\problem1\problem1\problem1.cpp(63): warning C4018: '<': signed/unsigned mismatch
+d:\projects\problem1\problem1\problem1.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  problem1.vcxproj -> D:\Projects\problem1\Debug\problem1.exe
+  problem1.vcxproj -> D:\Projects\problem1\Debug\problem1.pdb (Full PDB)
